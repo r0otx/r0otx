@@ -7,7 +7,7 @@ I'm also into Robotics and AI and i want to know how it works.
 ### 💼 Stack I'm Working With
 
  - **Languages:**  </br>
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Ileriayo/markdown-badges)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Ileriayo/markdown-badges)
 
